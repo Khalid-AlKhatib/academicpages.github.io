@@ -13,11 +13,8 @@ Khalid Al-Khatib is a postdoc in the Text Mining and Retrieval Group at Leipzig 
 
 
 <div class="description">
-                    <p>Dr. Khalid Al-Khatib</p>
-                    <span uk-icon="mail"></span>&nbsp;khalid.alkhatib<wbr>&#64;uni-leipzig.de
-                    <br>
-                    <span uk-icon="location"></span>&nbsp;Augustusplatz 10, Room P905
-                    <br>
+                   
+          
                     <p class="information">
                        [<a href="https://webis.de/data.html#?q=khalid+al-khatib">data</a>]
                        [<a href="https://webis.de/events.html#?q=khalid+al-khatib">events</a>]
