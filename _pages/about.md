@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Curriculum Vitae"
+#title: "Short Curriculum Vitae"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
