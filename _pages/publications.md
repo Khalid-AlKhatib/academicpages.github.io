@@ -5,7 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-<iframe src="https://webis.de/publications.html?q=khalid%2Bal-khatib" width="100%" height="300">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+<div id="class="uk-container uk-margin-medium publications-list""></div>
+<iframe id="iframe" src="https://webis.de/publications.html?q=khalid%2Bal-khatib" style="display:hidden;"></iframe>
