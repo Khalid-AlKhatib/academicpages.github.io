@@ -5,4 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-$('#div.uk-container.uk-margin-medium.publications-list').load('https://webis.de/publications.html?q=khalid%2Bal-khatib');
+<div style="border: 3px solid rgb(201, 0, 1); overflow: hidden; margin: 15px auto; max-width: 736px;">
+<iframe scrolling="no" src="https://webis.de/publications.html?q=khalid%2Bal-khatib#div.uk-container.uk-margin-medium.publications-list" style="border: 0px none; margin-left: -185px; height: 859px; margin-top: -533px; width: 926px;">
+</iframe>
+</div>
