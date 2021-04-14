@@ -5,7 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div id="class="uk-container uk-margin-medium publications-list""></div>
-<iframe id="iframe" src="https://webis.de/publications.html?q=khalid%2Bal-khatib" style="display:hidden;"></iframe>
-
-$('#"uk-container uk-margin-medium publications-list"').load('https://webis.de/publications.html?q=khalid%2Bal-khatib');
+$('div.uk-container.uk-margin-medium.publications-list').load('https://webis.de/publications.html?q=khalid%2Bal-khatib');
