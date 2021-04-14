@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
   .bottom-three {
-     margin-bottom: 3cm;
+     margin-bottom: 8cm;
   }
 </style>
 
