@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khalid Al-Khatib"
-title_separator          : "-"
+#title                    : "Khalid Al-Khatib"
+#title_separator          : "-"
 name                     : &name "Khalid Al-Khatib"
 description              : &description "Research scientist at Leipzig University"
 url                      : https://khalid-alkhatib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
