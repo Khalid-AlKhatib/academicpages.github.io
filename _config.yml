@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Researcher"
   location         : "Leipzig, Germany"
   employer         :
-  pubmed           : "xxxx"
+  #pubmed           : "xxxx"
   googlescholar    : "https://scholar.google.com/citations?user=mcOX6PYAAAAJ&hl=en"
   email            : khalid.alkhatib@uni-leipzig.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
