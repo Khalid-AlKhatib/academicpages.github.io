@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Khalid Al-Khatib"
+title                    : "Khalid Al-Khatib"
 #title_separator          : "-"
 name                     : &name "Khalid Al-Khatib"
 description              : &description "Research scientist at Leipzig University"
