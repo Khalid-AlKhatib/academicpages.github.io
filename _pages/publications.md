@@ -12,3 +12,12 @@ author_profile: true
 <script>
 includeBibentries(document.getElementById("publications-list"), "author:khalid+al-khatib");
 </script>
+
+.uk-hidden {
+    display: none;
+}
+
+.publications-list .bib-entry {
+    margin-bottom: 2.5ex;
+    line-height: 1.6;
+}
