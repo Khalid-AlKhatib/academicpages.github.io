@@ -11,9 +11,7 @@ author_profile: true
 <script src="https://assets.webis.de/js/selection.js"></script>
 <script>
 includeBibentries(document.getElementById("publications-list"), "author:khalid+al-khatib");
-</script>
-
-.uk-hidden {
+    .uk-hidden {
     display: none;
 }
 
@@ -21,3 +19,6 @@ includeBibentries(document.getElementById("publications-list"), "author:khalid+a
     margin-bottom: 2.5ex;
     line-height: 1.6;
 }
+
+</script>
+
