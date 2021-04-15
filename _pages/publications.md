@@ -15,6 +15,7 @@ includeBibentries(document.getElementById("publications-list"), "author:khalid+a
 
 </script>
 
+<style type="text/css">
   .uk-hidden {
     display: none;
 }
@@ -23,3 +24,5 @@ includeBibentries(document.getElementById("publications-list"), "author:khalid+a
     margin-bottom: 2.5ex;
     line-height: 1.6;
 }
+</style>
+
