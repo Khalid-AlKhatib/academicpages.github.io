@@ -4,6 +4,7 @@ title: "Data"
 permalink: /data/
 author_profile: true
 ---
+<script>
 let query = "";
 if (window.location.hash.startsWith("#?q=")) {
   query = window.location.hash.substr(4);
@@ -14,3 +15,5 @@ includeList(document.querySelector(".webis-data-table"), "https://webis.de/data.
   table.classList.remove("uk-container", "uk-margin-medium");
   initTableHighlightOnClick([table]);
 });
+
+</script>
